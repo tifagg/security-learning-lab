@@ -62,5 +62,5 @@ I created this lab to learn cybersecurity in a safe, legal, and educational way.
 
 
 
-Work in progress 🚧
+Work in progress
 
